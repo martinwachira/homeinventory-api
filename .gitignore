@@ -7,8 +7,8 @@
 /config
 
 # database
-db.js
-database.sql
+# db.js
+# database.sql
 
 # testing
 /coverage
